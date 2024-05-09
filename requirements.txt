@@ -77,7 +77,7 @@ pywinpty==0.5.7
 pyzmq==20.0.0
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1616775094278/work
 QtPy==1.9.0
-requests==2.25.1
+requests==2.31.0
 scikit-learn @ file:///C:/ci/scikit-learn_1621370563523/work
 scipy @ file:///C:/ci/scipy_1618856128765/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
