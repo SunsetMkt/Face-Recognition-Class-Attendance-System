@@ -17,7 +17,7 @@ entrypoints==0.3
 et-xmlfile==1.1.0
 freetype-py==2.2.0
 greenlet==1.1.0
-idna==2.10
+idna==3.7
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877484576/work
 imutils==0.5.4
 ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
