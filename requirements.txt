@@ -99,7 +99,7 @@ zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
 
 dlib~=19.22.0
 scipy~=1.6.2
-numpy~=1.20.2
+numpy~=1.26.4
 scikit-learn~=0.24.2
 freetype~=2.10.4
 pandas~=1.2.4
